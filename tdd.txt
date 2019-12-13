@@ -1,0 +1,20 @@
+starting a campfire
+1 get wood
+  1.1 find suitable tree
+  1.2 chop tree down
+    1.2.1 "take that, you stupid tree!"
+  1.3 cut tree into logs
+2 prep wood
+  2.1 log prep
+    2.1.1 leave some logs whole (or large pieces)
+    2.1.2 split some logs into halves (or medium pieces)
+  2.2 kindling prep
+    2.2.1 split one log into kindling pieces
+3 build suitable split
+  3.1 dig shallow whole
+  3.2 line edge with tall rocks or bricks
+4 arrange wood
+  4.1 arrange tinder/kindling on center bottom
+  4.2 place medium wood pieces over kindling
+5 light campfire
+  5.1 apply flame to tinder/kindling
